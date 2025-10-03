@@ -112,8 +112,8 @@ if (subTitle.length > maxWidth) {
 else {
 	subTitleArray.push(subTitle);
 }
-const author = ("Created by NTKhang with ♡");
-const srcUrl = ("Source code: https://github.com/ntkhang03/Goat-Bot-V2");
+const author = ("Created by AHMED TARIF with ♡");
+const srcUrl = ("Source code: https://github.com/MR-TARIF-BOT-X404/PRIME-TARIF.git");
 const fakeRelease = ("ALL VERSIONS NOT RELEASED HERE ARE FAKE");
 for (const t of subTitleArray) {
 	const textColor2 = gradient("#9F98E8", "#AFF6CF")(t);
