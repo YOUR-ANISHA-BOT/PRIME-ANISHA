@@ -36,6 +36,19 @@
   "mainAdmin": [
     "100081491574719"
   ],
+  "rubishapi": "https://rubish-apihub.onrender.com/rubish",
+  "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
+  "GOD": [
+    "61552422054139",
+    "100081491574719",
+    ""
+  ],
+  "DEV": [
+    "61552422054139",
+    "100081491574719",
+    "",
+    ""
+  ],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
