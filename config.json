@@ -31,10 +31,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100081491574719"
+    "100081491574719",
+    "61552422054139"
   ],
   "mainAdmin": [
-    "100081491574719"
+    "100081491574719",
+    "61552422054139"
   ],
   "vipuser": [
     "100081491574719"
@@ -55,7 +57,7 @@
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "100081491574719",
+      "61552422054139",
       "100081491574719"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
@@ -63,7 +65,7 @@
   "whiteListModeThread": {
     "enable": true,
     "whiteListThreadIds": [
-      "100081491574719"
+      "61552422054139"
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
